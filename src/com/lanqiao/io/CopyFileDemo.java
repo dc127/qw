@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	try {
 		FileInputStream fileinputsteam = new FileInputStream(file);
 		FileOutputStream fileoutputstream = new FileOutputStream(copyfile);
-		System.out.println("sda");
+		System.out.println("dasdaa");
 	} catch (FileNotFoundException e) {
 		// TODO Auto-generated catch block
 		e.printStackTrace();
